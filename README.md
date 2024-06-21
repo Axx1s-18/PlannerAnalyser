@@ -1,8 +1,9 @@
 # PlannerAnalyser
 
-Install steps
-1. Run CMD
-2. Type "pip install tkinter"
-3. Type "pip install customtkinter"
-4. Download folder and unzip
-5. Run main.py
+INSTRUCTIONS
+1. Download zip
+2. Unzip file
+3. open main.py
+4. run pip install -r requirements.txt
+5. run main.py
+6. use each panel of the application for planning, tracking, and stats
